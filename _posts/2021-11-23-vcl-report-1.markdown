@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Visualizing Caribbean Literary Encounters: Progress Report 1"
+date:   2021-11-23
+categories: VCL-Progress-Report
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+This week we worked on the project “Writers, Readers, and Scenes: Visualizing Caribbean Literary Encounters”. In this project, my task is to locate all literature written by Caribbean authors between 1971 and 1980 and store the metadata related to these works in Zotero. Our previous classes explaining how to use Zotero’s app, browser extension, and other functionalities have streamlined this process for me. Working with metadata has also given me a better understanding of how this information helps manage resources and retrieve documents, which were introduced to me in previous weekly readings.
+
+I find the adage “Don’t judge a book by its cover” ironic since that is exactly what I have been doing for the past few days when gathering different books and reading their synopses. To accomplish my task, I initially did a broad search of “Caribbean authors” on different sites like Goodreads or Amazon. However, this proved to be inefficient because my results would include elements not directly relating to my objective, like authors who were not born in the Caribbean or who wrote books about Caribbean authors or literature, whereas I wanted the original publication of these works.
+
+Therefore, I changed my strategy to include keywords in my searches to narrow my results. This provided me with more appropriate results, but I quickly realized that commercial sites like Amazon or Goodreads did not have the data I wanted. So, I started to use “Worldcat” and “Digital Library of the Caribbean,” which are digital archives that preserve documents and ensure there is open access to them. I also began searching for specific Caribbean authors that I knew, such as Kamau Brathwaite and Derek Walcott, and others provided to me by Dr. Esprit, like Dionne Brand and George Lamming. This method has proved to be the most effective so far.
+
+My individual work on this project has developed my research skills, as I have learnt how to better manipulate my searches to get the results I want.
+
+There are also a few topics I am interested in exploring that I could base my reflective piece on. For example, I have observed in this time period that a lot of the literature is from authors born in Barbados, Jamaica, or Trinidad and Tobago.
+
+![Table 1; Authorship by country collected for 75 books](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2021/11/Authorship-by-Country.jpg)
+<br/>
+*Table 1; Authorship by country collected for 75 books*
+
+Therefore, my personal project could focus on the economic and social factors in these countries that contributed to the increase in published work.
+
+Furthermore, as Dr Espirt points out, there aren’t as many female authors during this time period. Therefore, I have chosen to keep a record of all female writers who published books in 1971 and 1980.
+
+
+![Table 2: Female authors](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2021/11/Female-Authors.jpg)
+<br/>
+*Table 2: Female authors*
+
+A possible angle my personal project could explore is the different themes of topics written by female and male authors using distant reading tools like Voyant. Even though I may not create projects on these topics, I think they are interesting subtopics that can help broaden my personal understanding.
+
+Word Count – 480 words
+
+
+
+

@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Visualizing Caribbean Literary Encounters: Progress Report 4"
+date:   2022-02-10
+categories: VCL-Progress-Report
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+When we were first given the task of conceptualizing our own digital humanities final project, I was initially scared. Although I had spent the last semester and the first two weeks of this semester learning different digital humanities tools such as GIS, and I had written two reports reflecting on digital humanities projects: [Mapping Marraonge](http://mapping-marronage.rll.lsa.umich.edu/) and [The Viral Text Project](https://viraltexts.org/), I had no clue what my project would be about, or what tools I would use. 
+
+As a result, I decided to consult the reflective pieces I wrote when first working on the Visualizing Caribbean Literature project and [Miriam Posner’s “How Did They Make That?”](http://miriamposner.com/blog/how-did-they-make-that/) and [Paige Morgan’s “What Do Digital Humanists Do?”](https://schuyleresprit.com/his115/wp-content/uploads/2021/09/What-do-digital-humanists-do.pdf)
+
+This helped me realize two essential observations I made:
+
+1) My time period was heavily dominated by male authors. 
+
+![Table 1: Female authors published during 1971-1980 of the 75 books collected](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/T1.jpg)
+<br/>
+*Table 1: Female authors published during 1971-1980 of the 75 books collected*
+
+* When Dr Esprit made a slight comment that there were a lot of men in my period of 1971–1980, I became interested in tracking the number of female authors that I came across. Although this list is incomplete (because I forgot to update it), out of the 75 books I gathered at the time, only 4 were written by female authors. Can you imagine what the number would be if I updated this list to reflect the 324 items I gathered for my section?
+
+2) There are a lot of books from certain countries.
+
+![Table 2: Authorship by country gathered for 75 books](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/T2.jpg)
+<br/>
+*Table 2: Authorship by country gathered for 75 books*
+
+* I would expect the bigger countries in the Greater Antilles, such as Jamaica, Cuba, and Haiti, to have more published books by their respective authors because they have a larger population and more resources available. However, when I initially tracked this, I was surprised to discover that Barbados has the highest published country, whilst Haiti had one of the lowest.
+
+
+After gathering two potentially digital humanities topics, I started thinking about what ideas I wanted to highlight and what tools I could use. During reflection, I remembered that the synopsis of the books I read by popular male authors like V.S. Naipaul and Derek Walcott was about colonization and war, but the few female authors within my period wrote about family and love. However, the female authors I was familiar with, such as Jamaica Kincaid, whose book, “A Small Place,” I read during this time, was a long essay about Kincaid’s experience with racism in her homeland, Antigua, and how colonialism impacted Antiguan society. So, is there really a difference between what male and female authors are writing, and if so, what are they writing about? To showcase this, I decided that I could use Voyant to distant read corpuses that I could create of all the male and female authors’ books in this project to determine the main themes and ideas in their works. Furthermore, to determine why certain countries had a higher publication rate by authorship country, I could research what political, social, or economic factors existed during this time. Nevertheless, I still did not know how I could present this data in an interesting and engaging way to users. So once again, I consulted Posner and Morgan’s articles and Dr Esprit for further help.
+
+Afterwards, I was able to create my initial project idea:
+
+
+> A semi-linear customizable narrative that includes text, images, audio, and/or video that explores the differences in the themes of works by male and female authors and determines which sex has a higher propensity to write books on specific themes such as gender and sexuality in comparison to politics. It would also contain a map to determine the geographical variances in the birth countries and publication locations of male and female authors.”
+<br/>
+**This is my intial Individual Project idea**
+
+Although I know from [William G. Thomas’s article “What We Think We Will Build and What We Build in Digital Humanities”](http://journalofdigitalhumanities.org/1-1/what-we-think-we-will-build-and-what-we-build-in-digital-humanities-by-will-thomas/) that what I think I will build and what I will end up building may be quite different. However, I am still very excited to explore this idea, document the process, and compile the end project with this initial idea.
+
+Word Count: 655 words
+
+
+

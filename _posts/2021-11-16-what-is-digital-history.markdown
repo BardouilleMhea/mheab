@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "What is Digital History?"
+date:   2021-11-16
+categories: HIS115-Readings
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+The World Wide Web (www) and web browsers, as well as technological advancements, have transformed the way we read and process information. This global information network has not only increased the amount of open-source material available to students, allowing them to access primary sources in previously inconceivable ways, but it has also revolutionized research processes and tools. Digital history is the use of computer tools, software systems, and networked information to evaluate, portray, and depict historical research findings. It’s not just about digitizing the past; it’s about building a framework for humanists to employ code, tools, and software, as well as existing technology, to create new ways of conducting humanities studies that the general public can read and experience.
+
+Many researchers struggled to distinguish between digitization projects and digital history scholarship throughout the early phases of the field’s popularization. However, a clear distinction can be made today. Digitization is more widespread both within and outside academia and involves making collections available in digital form. Digital history projects, on the other hand, organize a more distinct collection of sources and resources around a historiographical topic. The “Mapping Marrongae” initiative, which I examined recently, is an example of a digital history project. This project aimed to investigate the numerous ways slaves attempted to emancipate themselves by mapping the movements and correspondences shown in different bodies of work. As a result, the resources such as manumission papers, letters, and biographies are all organized to answer this major research question. The researchers also made these documents available in a digital format, whether through OCR scanned photos (PDF) or using text encoding initiative (TEI) to encode the textual content. Therefore, as illustrated, many digital projects have a great deal of digitizing as part of their work, but the focus is different from other organizations. 
+
+Furthermore, collaboration is an essential component of digital history projects. In a previous reading, “What We Think We Will Build and What We Build in Digital Humanities,” Williams provided an example of a possible way digital humanists collaborate or form partnerships with libraries to create models, preserve, and make the scholarship research from digital humanities and interpretive archives available to the wider public. To create digital history projects, teamwork is not only required with librarians but also with technology professionals and historians. Even in the digital history project that my class is working on, cross-collaboration is evident as some students are in information technology or computer science majors, and others are perusing business and geography majors. 
+
+The future of digital history is to shift the focus from the product-oriented or “website” to process-oriented work by employing new media tools in research and analysis. To do this, the data in digital history has to be considered a scholarly product. For this to happen, the challenges of the quality of data, as well as preservation of data and open access to content, need to be addressed. Digital preservation and open access are some of the broad categories of digital humanities that would ensure that literature is available to humanists without having to pay for it, and these resources can be turned into a digitization project to enable this historical knowledge to be available to the general public in the future. Additionally, quality of data refers to transforming “big data” that is unstructured, messy and heterogeneous into “smart data” through the use of analysis of computational tools to reduce as many imperfections as possible. Digital history projects can only be created if these three elements are met.

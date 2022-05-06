@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Visualizing Caribbean Literary Encounters: Progress Report 3"
+date:   2021-12-07
+categories: VCL-Progress-Report
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+This week I worked on the project “Writers, Readers, and Scenes: Visualizing Caribbean Literary Encounters.” I continued using last week’s method by searching Zotero for [Cuban](https://en.wikipedia.org/wiki/List_of_Cuban_writers) and [Haitian](https://en.wikipedia.org/wiki/Category:Haitian_writers) writers who were the results of a secondary Google search at the start of the week. While the results were varied and few were within my time frame, this approach increased the number of Hispanophone and Francophone authors featured in our project.
+
+In addition, I looked for authors and writers in Cuba and Haiti on Wikipedia. A few of the authors listed were the same as in the Google search; however, Wikipedia also provided individuals, such as politicians and economists, who were not writers by profession, but who wrote books, doctoral dissertations, theses, and other literary works about these countries from a political or economic standpoint using the knowledge they acquired. My results from this search were mixed, and few books were published in my time period. Furthermore, from my observations, the majority of the works written by these authors were published between 1981 and 1990.
+
+For the past two weeks, working on this project, I primarily used Zotero as my research tool. Thus, I decided to change my methodology this week and used the website Goodreads. I remembered remarks from prior lectures and my lecturer, Dr. Esprit’s, warning about using this website since reviews can be written by anyone and, like on Wikipedia, the data might be faulty. As a result, if two books had contradictory information, such as different publishers or different publication years, although having the same name, I would double-check the data by visiting more reputable websites.
+
+Goodreads provided a more diverse list of books than Zotero, especially for lesser-known authors such as Stephen A. Dantes. Popular authors and poets, such as Edward Kamau Brathwaite, have many books published; thus, there is a multitude of information on Zotero. However, less-known authors have fewer books listed on Zotero, and research results may return authors that are not Caribbean. I have also recognized this trend in many other countries. For instance, in Jamaica, authors Andrew Salkey and Vic Reid, and Trinidadian author V.S. Naipaul, are all well-known and there is extensive information about them on Zotero. 
+
+This begs the question in my mind, “What factors caused the popularization of books by certain authors in the Caribbean during my period?” Can it be attributed to the themes and materials presented in these works, or was it due to the advertising of publishers? This is an interesting perspective on which I could base my reflective piece.
+
+Our other classes working with Zotero, as well as the class with Alex Gil, are helping me to better understand how this digital humanities project will be created. Although there will be challenges, I am very excited about what lies ahead. 
+
+465 words

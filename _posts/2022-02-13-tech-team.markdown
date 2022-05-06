@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Tech Team – Jekyll"
+date:   2022-02-13
+categories: Tech-Team
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+This week, I started my work on the “Tech Team” with my first task, Jekyll. During our retreat day, we created our Jekyll pages, so I was relatively familiar with this static site generator. 
+
+In one of our earlier lessons with [Alex Gil](https://en.wikipedia.org/wiki/Alex_Gil_(scholar)), static websites were introduced to us for the first time. Simply put, static sites are folders of HTML files that are already put together and can be served up when you are visiting the site. However, dynamic sites like Amazon are created by pulling information from a database to populate a page. Since static sites are already pre-made (so there is no need to query databases), they consume less data and bandwidth than dynamic sites, which ensures that countries or individuals with fewer resources can participate in the digital humanities. 
+
+One of the biggest differences I have noticed between Jekyll and other content management systems (CMS) like WordPress, which I am learning about in my COMP225: Web Technologies 2 class and using to write this blog, is that Jekyll does not have a dashboard (admin UI). While this has many benefits, such as reduced admin work, there is a relatively higher learning curve. A dashboard is a lot easier to navigate, especially for less tech-savvy users who may not have interacted with the command line before or who want to memorize or remember all the codes. 
+
+So, this is why the “Tech Team” was created to help further the technologies we are using to create the Visualizing Caribbean Literature project. 
+
+My goal this week was to understand the steps needed to build a Jekyll site and how to troubleshoot any problems that may arise from this. Through my IT courses, I have learnt the importance of documentation, especially recording steps and troubleshooting methods that failed and worked for further reference. Also, reflecting on Trevor Owen’s article, [“Please Write it Down: Design and Research in Digital Humanities,”](http://journalofdigitalhumanities.org/1-1/please-write-it-down-by-trevor-owens/) I know that every digital humanities project begins with writing.
+
+Since my laptop has the necessary prerequisite instalments I started with step 2:
+
+**STEP 2**: Instal the Jekyll and the bundler gems 
+
+
+→  gem install jekyll bundler 
+
+<br/>
+![Snippet of command line](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/JEKYLL1.jpg)
+<br/>
+
+Important Technical Terms:
+* Gems are codes that are used to extend or modify functionality in Ruby applications. Jekyll is a gem.
+
+* Bundler is a gem that installs all the gems in your Gemfile.
+<br/> <br/>
+
+**STEP 3**: Create a new Jekyll site
+
+→  jekyll new (name_of_site_)
+![Snippet of the error message I got. (Site name is ‘techteam’)](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/JEKYLL2-768x174.jpg)
+<br/>
+
+This was the first (of many) errors that I ran into. According to the site, [Jekyllrb](https://jekyllrb.com/), this should have been the next step, but I was getting an error message. From retreat, I remember that a lot of the creators were also getting this message, which I believe is due to our Operating System (most of us had windows). 
+
+So, I consulted [Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#setting-up-jekyll-), which was the website we used when making our wax sites because it explained Jekyll. However, the website did not address this.
+
+So, I reread [the Jekyllrb Installation Guide for Windows](https://jekyllrb.com/docs/installation/windows/), and the [Ruby 101 pages](https://jekyllrb.com/docs/ruby-101/), to see if I could figure out why this error was occurring, and how I could resolve it. 
+
+After a lot of trial and error, and re-reading these pages I was able to troubleshoot this problem. 
+
+Once you have installed Jekyll and the bundler gems (**See Step 2**):
+
+* Install (the missing) gems in your Gemfile
+		* bundle install 
+
+* Update your Ruby gems:
+		* bundle update 
+
+Create a new Jekyll site (**using the  new code**)
+→  bundle exec jekyll new (name_of_site_)
+
+Important Technical Terms:
+
+* Bundle exec allows runs the executable script needed to create the Jekyll
+
+
+![Snippet showing the creation of the new Jekyll site (suing the new code)](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/JEKYLL3.jpg)
+<br/>
+
+Ensure that your new folder (static website) is installed in the user folder (or wherever your gemfile is)
+
+**STEP 4**: Change into your directory
+→  cd (name_of_site)
+ 
+Important Technical Terms:
+
+* CD stands for change directory (Very convenient, right?)
+
+<br/>
+**STEP 5** :Build the site and make it available o
+→ bundle exec Jekyll server  
+
+
+![Snippet showing Steps 4 and 5](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/JEKYLL14.jpg)
+<br/>
+
+
+When you copy the server address or use “ http://localhost:4000/” , your Jekyll site will show!
+
+![My SITE was made successfully!](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2022/02/JEKYLL5.jpg)
+<br/>
+
+I am very happy that I now have a good understanding of how to build a Jekyll site. My goal for next week is to spend some time learning how to adjust the formatting features in HTML, how to create posts and gain a basic understanding of the formatting layouts. 
+
+Word Count: 693 words
+

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Visualizing Caribbean Literary Encounters: Progress Report 2"
+date:   2021-11-30
+categories: VCL-Progress-Report
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+This week I continued working on the project “Writers, Readers, and Scenes: Visualizing Caribbean Literary Encounters”. At the start of the week, I used the same method of searching for authors I knew on Zotero and clipping books published into their respective folders using the browser extension. However, I soon ran into a dead end because I could not recall any more authors off the top of my head. I then remembered that many of the books were written by different authors, so I searched for books published by these co-authors. This provided me with many different types of literature. However, very few were in my time range. Furthermore, I noticed that a lot of anglophone Caribbean authors would collaborate with American authors, Hispanophone authors would collaborate with authors from Spain, and francophone authors with authors born in France. Therefore, I could not use the books published by these individuals as our project defined “Caribbean literature” as literature written by individuals born in Caribbean countries. 
+
+So, I decided to review the metadata I had for the books in my folder. As seen in my [“Progress Report 1” table 1](https://createcaribbean.org/create/cariblithistory/wp-content/uploads/sites/6/2021/11/Authorship-by-Country.jpg), a lot of the books I found were by Anglophone authors and were heavily concentrated in a few countries. Therefore, I needed a new strategy. I went on Wikipedia and searched for Caribbean countries, and was given a list of the different [Caribbean countries by population](https://en.wikipedia.org/wiki/List_of_Caribbean_countries_by_population). Using each country on this list, I did a secondary search on Google for authors born in that country. Then I would search on Zotero for any books published by these authors within my time range and the other ranges.
+
+This week I searched for authors in Cuba and Haiti. The results of this were varied. While I got more literature written by Hispanophone and Francophone authors, many of the results would not refer to my time period or the authors were not born in these countries but wrote about events that occurred in them. Hence, I had to continuously double-check through a Google search or on Wikipedia for the birth country of each unknown author. 
+
+My work on my individual part of the project highlighted how I may need to do multiple different searches to obtain books within my time period, as well as the significance of staying vigilant, because not all the books meet my criteria.
+
+We also had a class with [Mr Alex Gil](https://en.wikipedia.org/wiki/Alex_Gil_(scholar)) this week to explain minimal computing and Wax, which is focused on providing flexible, low-cost websites that are long-lasting. Dr Esprit also explained how the metadata collected from each book will be exported as a CSV file, which is needed to build the wax site. So, I plan to spend a few hours next week verifying that the information in the metadata for each book is correct and fill out the missing sections. 
+
+475 words

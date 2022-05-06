@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Telling Stories in Space and Place"
+date:   2022-02-15 
+categories: HIS115-Readings
+---
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+</style>
+
+In her collection of essays on the spatial humanities, Jo Guldi explains [spatial turn](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/) and what a [spatial turn in literature](https://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-literature/index.html) is. In the 1960s, humanities scholars spoke of a quantitative turn in history, and in 1980, a linguistic and cultural turn in history and literature. “Landscape turns” or “spatial turns” are referred to as an intellectual movement that places emphasis on place and space in social science and the humanities. Early in the development of spatial storytelling, legal scholar [Henry Maine](https://www.britannica.com/biography/Henry-Maine), philosopher [Ernst Cassirer](https://en.wikipedia.org/wiki/Ernst_Cassirer), urban historian [Lewis Mumford](https://en.wikipedia.org/wiki/Lewis_Mumford), journalist [Walter Lippmann](https://en.wikipedia.org/wiki/Walter_Lippmann), and religious scholar [Mircea Eliade](https://en.wikipedia.org/wiki/Mircea_Eliade) were prompted to create a universal language for describing spatial experience and its artificial manipulation. After reviewing historical records, these individuals settled on the use of the words “commons,” “palimpsest,” and “pseudoenvironment.” This standardized vocabulary was critical in allowing other scholars and humanists to understand the phenomenon and create stronger arguments.
+
+Spatial turns are linked to examining archival quantitative studies of history, literature, and other studies of society using digital tools to get a deeper understanding of the past or to understand how social or historical factors influence our current life. One of the digital humanities tools adapted for use in the social sciences and humanities is [GIS](https://www.gislounge.com/what-is-gis/). [The Canada Land Inventory](https://sis.agr.gc.ca/cansis/nsdb/cli/index.html) developed GIS in the 1960s to reopen spatial concerns in the disciples through the use of geographical archival data. This multidisciplinary characteristic of spatial storytelling is compatible with the collaborative characteristic that is inherent in the digital humanities.
+
+Guldi also explores the motions of spatial turns in literature. It all started with journalists documenting London’s urban lifestyle in order to facilitate tourism by describing crowd figures, clothing, and habits in certain neighbourhoods. It is fascinating to observe how literary representations may allow someone to imagine the appearance of a person in such depth and establish what class they belong to. After reading these papers, [James Grant](https://sis.agr.gc.ca/cansis/nsdb/cli/index.html) became interested in how legislation affected the development of various locations in the city, including monumental architecture and political and social situations such as the presence of police. Unknowingly, through his book, [Travels in Town (1839)](https://books.google.dm/books/about/Travels_in_Town_Vol_Ii.html?id=dMqcxK1VRQYC&source=kp_book_description&redir_esc=y), Grant started to spatially tell the history of the city. Since then, there have been an enormous number of works demonstrating how a group’s location impacts its culture, ancestral forces, and imagination through the use of archive data.
+
+Through our class sections, we have explored spatial turns using literature and history. Through examining archival data of different travel guides documented by foreigners, we could conclude that the unkemptness of Roseau has always been poor based on descriptions of rats, litter in the road, and comparisons to other capital cities. Thus, from understanding this history, it would be a reasonable argument to make that the cleanliness of Roseau would not improve unless a drastic social change or increased environmental awareness is made among the citizens. Furthermore, we used Google maps to spatially explain how the small portion of land in the community of Mahaut led to the formation of a clustered community, the social problems that arose, and the role Dominican Coconut Products (DCP) played in the development of the village and the creation of a middle-class society.
+
+Word Count- 530 words
