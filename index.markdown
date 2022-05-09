@@ -13,7 +13,7 @@ div {
 
 </style>
 
-## Mhea Bardouille: HIS115- Course Blog 
+## Create Caribbean RTC Internship Portfolio Page
 
 
  Why, hello there! My name is [Mhea Bardouille](/mheab/about), and I am a soon-to-be graduate of [Dominica State College (DSC)](https://dsc.edu.dm/), where I majored in Accounting and Information Technology. During my tenure at DSC I enrolled in [HIS 115: Digital Humanities](https://www.createcaribbean.org/his115/) as part of my internship at [Create Caribbean Research Institute](https://createcaribbean.org/create/). Through this course and program my appreciation for research has expeditiously increased as I acquired new skills and learned technical tools to analyze and visualize my research findings.
