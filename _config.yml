@@ -31,7 +31,7 @@ header_pages:
   - about.markdown
   - categories.markdown
   - post.markdown
-  - project-proposal.markdown
+  - project-proposal.md
   - annotated-bib.markdown
 
 # Build settings
