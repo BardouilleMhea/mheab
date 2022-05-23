@@ -31,7 +31,8 @@ header_pages:
   - about.markdown
   - categories.markdown
   - post.markdown
-  - indv-project.markdown
+  - project-proposal.markdown
+  - annotated-bib.markdown
 
 # Build settings
 theme: minima
